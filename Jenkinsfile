@@ -1,3 +1,3 @@
-@Library('mpl') _
+@Library('mpl@main') _
 
 MPLPipeline {}
