@@ -2,4 +2,4 @@
  * Simple Maven Build
  */
 
-echo 'No tests provided'
+echo 'Executing build Stage'
