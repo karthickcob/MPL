@@ -40,7 +40,7 @@ def call(body) {
 
   pipeline {
     agent {
-      label MPL.agentLabel
+      label "Karthick"
     }
     options {
       skipDefaultCheckout(true)
