@@ -2,4 +2,4 @@
  * Checkout for the current SCM
  */
 
-Default checkout scm
+bydefault checkout scm
