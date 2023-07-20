@@ -1,3 +1,6 @@
 @Library('mpl@main') _
 
-MPLPipeline {}
+MPLPipeline {
+  agent_label  = 'Karthick'
+
+}
